@@ -8,6 +8,7 @@ This project contains the materials for the "Different Sizes of Infinity" exhibi
 ## Project Structure
 The project is organized into the following directories and files:
 
+```
 different-sizes-of-infinity/
 │
 ├── images/
@@ -21,6 +22,7 @@ different-sizes-of-infinity/
 ├── README.md
 ├── main.tex
 └── style.sty
+```
 
 ## Files and Directories
 - images/: This directory contains all the image files used in the poster.
