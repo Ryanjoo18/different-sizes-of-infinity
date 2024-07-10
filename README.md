@@ -1,12 +1,10 @@
 # Different Sizes of Infinity
 
-An exhibiition poster I designed for my school's Mathematics Week, which discusses cardinality of infinite sets.
-
 ## Project Overview
-This project contains the materials for the "Different Sizes of Infinity" exhibition poster, designed for the Mathematics Week at our school. The exhibition discusses the concept of cardinality of infinite sets, exploring the intriguing differences between various sizes of infinity.
+This project contains the materials for the "Different Sizes of Infinity" exhibition poster, designed for the Mathematics Week at my school. The poster discusses the concept of cardinality of infinite sets.
 
 ## Project Structure
-The project is organized into the following directories and files:
+The project is organised into the following directories and files:
 
 ```
 different-sizes-of-infinity/
